@@ -1,0 +1,14 @@
+.jumbotron{
+    padding-top: 6rem;
+    background: #e2edff;
+}
+.about{
+    border-top-left-radius: 4rem;
+    border-bottom-right-radius: 4rem;
+}
+#project{
+    background: #e2edff;
+}
+section{
+    padding-top: 5rem;
+}
